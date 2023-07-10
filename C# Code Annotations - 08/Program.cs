@@ -108,7 +108,6 @@ namespace ConsoleApp8
 
             #endregion
 
-
             // ---------- DICTIONARIES ----------
             #region Dictionary Code
 
