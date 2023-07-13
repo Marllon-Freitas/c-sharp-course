@@ -38,6 +38,7 @@ namespace ConsoleApp8
             {
                 Console.WriteLine(aList[i]);
             }
+            
             Console.WriteLine();
 
             ArrayList aList2 = new ArrayList();
